@@ -1,5 +1,6 @@
-关于游戏
-============================
-很早很早以前玩过一款韩国单机游戏，玩法，规则很简单，就是玩的停不下来，不停的刷，刷到更强的角色，在继续刷...换手机后下载不到了，而且国内压根没有Android版，于是乎，作为一名正在老了的程序员，就让这个玩法以大家熟悉的三国背景重现出来(PS:原来写程序好简单啊，原来UI和数据才真是让人头疼)。喜欢收集和刷刷刷的朋友可以体验下这款绝对不氪金，绝对靠人品的，绝对打发无聊时间的游戏
 
-问题反馈，攻略帮助，请联系我：122579905@qq.com
+About the game
+============================
+I played a stand-alone game a long time ago. The gameplay and the rules are very simple, that is, you can’t stop playing, you can’t stop brushing, brushing to a stronger character, and continuing to brush... after changing your phone, you can’t download it. , And there is no Android version at all in China. So, as an aging programmer, let this gameplay be reproduced with the familiar Three Kingdoms background (PS: It turns out that writing a program is so simple, the original UI and data are really It's a headache). Friends who like to collect and brush can experience this absolutely no gold, absolutely depend on character, absolutely kill the boring time game!
+
+Hope you like this game!
