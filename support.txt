@@ -1,6 +1,5 @@
-
 About the game
 ============================
-I played a stand-alone game a long time ago. The gameplay and the rules are very simple, that is, you can’t stop playing, you can’t stop brushing, brushing to a stronger character, and continuing to brush... after changing your phone, you can’t download it. , And there is no Android version at all in China. So, as an aging programmer, let this gameplay be reproduced with the familiar Three Kingdoms background (PS: It turns out that writing a program is so simple, the original UI and data are really It's a headache). Friends who like to collect and brush can experience this absolutely no gold, absolutely depend on character, absolutely kill the boring time game!
+I played a stand-alone game a long time ago. The gameplay and the rules are very simple, that is, you can’t stop playing, you can’t stop brushing, brushing to a stronger character, and continuing to brush... after changing my phone, i can’t download it. , And there is no Android or Ios version at all now. So, as an aging programmer, let this gameplay be reproduced with the familiar Three Kingdoms background (PS: It turns out that writing a program is so simple, the original UI and data are really It's a headache). Friends who like to collect and brush can experience this absolutely no gold, absolutely depend on character, absolutely kill the boring time game!
 
 Hope you like this game!
